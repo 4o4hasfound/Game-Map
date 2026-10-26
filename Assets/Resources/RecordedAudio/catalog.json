@@ -1,0 +1,2608 @@
+{
+  "fs_concrete": [
+    "step_concrete_0",
+    "step_concrete_1",
+    "step_concrete_2",
+    "step_concrete_3",
+    "step_concrete_4",
+    "step_concrete_5",
+    "step_concrete_6",
+    "step_concrete_7",
+    "step_concrete_8"
+  ],
+  "land_concrete": [
+    "step_concrete_0",
+    "step_concrete_1",
+    "step_concrete_2",
+    "step_concrete_3",
+    "step_concrete_4",
+    "step_concrete_5",
+    "step_concrete_6",
+    "step_concrete_7",
+    "step_concrete_8"
+  ],
+  "fs_wood": [
+    "step_wood_0",
+    "step_wood_1",
+    "step_wood_2",
+    "step_wood_3",
+    "step_wood_4",
+    "step_wood_5",
+    "step_wood_6",
+    "step_wood_7",
+    "step_wood_8"
+  ],
+  "land_wood": [
+    "step_wood_0",
+    "step_wood_1",
+    "step_wood_2",
+    "step_wood_3",
+    "step_wood_4",
+    "step_wood_5",
+    "step_wood_6",
+    "step_wood_7",
+    "step_wood_8"
+  ],
+  "fs_tile": [
+    "step_tile_0",
+    "step_tile_1",
+    "step_tile_2",
+    "step_tile_3",
+    "step_tile_4",
+    "step_tile_5",
+    "step_tile_6",
+    "step_tile_7",
+    "step_tile_8"
+  ],
+  "land_tile": [
+    "step_tile_0",
+    "step_tile_1",
+    "step_tile_2",
+    "step_tile_3",
+    "step_tile_4",
+    "step_tile_5",
+    "step_tile_6",
+    "step_tile_7",
+    "step_tile_8"
+  ],
+  "fs_metal": [
+    "step_metal_0",
+    "step_metal_1",
+    "step_metal_2",
+    "step_metal_3",
+    "step_metal_4",
+    "step_metal_5",
+    "step_metal_6",
+    "step_metal_7"
+  ],
+  "land_metal": [
+    "step_metal_0",
+    "step_metal_1",
+    "step_metal_2",
+    "step_metal_3",
+    "step_metal_4",
+    "step_metal_5",
+    "step_metal_6",
+    "step_metal_7"
+  ],
+  "fs_water": [
+    "step_water_0",
+    "step_water_1",
+    "step_water_2",
+    "step_water_3",
+    "step_water_4"
+  ],
+  "land_water": [
+    "step_water_0",
+    "step_water_1",
+    "step_water_2",
+    "step_water_3",
+    "step_water_4"
+  ],
+  "fs_rubble": [
+    "step_rubble_0",
+    "step_rubble_1",
+    "step_rubble_2",
+    "step_rubble_3",
+    "step_rubble_4",
+    "step_rubble_5",
+    "step_rubble_6",
+    "step_rubble_7",
+    "step_rubble_8",
+    "step_rubble_9"
+  ],
+  "land_rubble": [
+    "step_rubble_0",
+    "step_rubble_1",
+    "step_rubble_2",
+    "step_rubble_3",
+    "step_rubble_4",
+    "step_rubble_5",
+    "step_rubble_6",
+    "step_rubble_7",
+    "step_rubble_8",
+    "step_rubble_9"
+  ],
+  "fs_carpet": [
+    "rec_carpet_0",
+    "rec_carpet_1",
+    "rec_carpet_2",
+    "rec_carpet_3",
+    "rec_carpet_4",
+    "rec_carpet_5",
+    "rec_carpet_6",
+    "rec_carpet_7"
+  ],
+  "land_carpet": [
+    "rec_carpet_0",
+    "rec_carpet_1",
+    "rec_carpet_2",
+    "rec_carpet_3",
+    "rec_carpet_4",
+    "rec_carpet_5",
+    "rec_carpet_6",
+    "rec_carpet_7"
+  ],
+  "fs_rubber": [
+    "step_concrete_0",
+    "step_concrete_1",
+    "step_concrete_2",
+    "step_concrete_3",
+    "step_concrete_4",
+    "step_concrete_5",
+    "step_concrete_6",
+    "step_concrete_7",
+    "step_concrete_8"
+  ],
+  "land_rubber": [
+    "step_concrete_0",
+    "step_concrete_1",
+    "step_concrete_2",
+    "step_concrete_3",
+    "step_concrete_4",
+    "step_concrete_5",
+    "step_concrete_6",
+    "step_concrete_7",
+    "step_concrete_8"
+  ],
+  "fs_escalator": [
+    "step_metal_0",
+    "step_metal_1",
+    "step_metal_2",
+    "step_metal_3",
+    "step_metal_4",
+    "step_metal_5",
+    "step_metal_6",
+    "step_metal_7"
+  ],
+  "land_escalator": [
+    "step_metal_0",
+    "step_metal_1",
+    "step_metal_2",
+    "step_metal_3",
+    "step_metal_4",
+    "step_metal_5",
+    "step_metal_6",
+    "step_metal_7"
+  ],
+  "fs_run_concrete": [
+    "rec_concrete_run_0",
+    "rec_concrete_run_1",
+    "rec_concrete_run_2",
+    "rec_concrete_run_3",
+    "rec_concrete_run_4",
+    "rec_concrete_run_5",
+    "rec_concrete_run_6",
+    "rec_concrete_run_7",
+    "rec_concrete_run_8",
+    "rec_concrete_run_9"
+  ],
+  "cloth": [
+    "rec_cloth_rustle_0",
+    "rec_cloth_rustle_1",
+    "rec_cloth_rustle_2",
+    "rec_cloth_rustle_3",
+    "rec_cloth_rustle_4",
+    "rec_cloth_rustle_5",
+    "rec_cloth_rustle_6",
+    "rec_cloth_rustle_7"
+  ],
+  "breath_calm": [
+    "rec_breath_calm_phrase0",
+    "rec_breath_calm_phrase1",
+    "rec_breath_calm_phrase2",
+    "rec_breath_calm_phrase3",
+    "rec_breath_calm_phrase4",
+    "rec_breath_calm_phrase5",
+    "rec_breath_calm_phrase6",
+    "rec_breath_calm_phrase7"
+  ],
+  "breath_heavy": [
+    "rec_breath_exertion_phrase0",
+    "rec_breath_exertion_phrase1",
+    "rec_breath_exertion_phrase2",
+    "rec_breath_exertion_phrase3",
+    "rec_breath_exertion_phrase4"
+  ],
+  "breath_recovery": [
+    "rec_breath_exertion_phrase0",
+    "rec_breath_exertion_phrase1",
+    "rec_breath_exertion_phrase2",
+    "rec_breath_exertion_phrase3",
+    "rec_breath_exertion_phrase4"
+  ],
+  "monster_breath": [
+    "rec_breath_exertion_phrase0",
+    "rec_breath_exertion_phrase1",
+    "rec_breath_exertion_phrase2",
+    "rec_breath_exertion_phrase3",
+    "rec_breath_exertion_phrase4"
+  ],
+  "breath_calm_in": [
+    "rec_breath_calm_in_0",
+    "rec_breath_calm_in_1",
+    "rec_breath_calm_in_2",
+    "rec_breath_calm_in_3",
+    "rec_breath_calm_in_4",
+    "rec_breath_calm_in_5",
+    "rec_breath_calm_in_6",
+    "rec_breath_calm_in_7",
+    "rec_breath_calm_in_8",
+    "rec_breath_calm_in_9",
+    "rec_breath_calm_in_10",
+    "rec_breath_calm_in_11",
+    "rec_breath_calm_in_12",
+    "rec_breath_calm_in_13",
+    "rec_breath_calm_in_14",
+    "rec_breath_calm_in_15",
+    "rec_breath_calm_in_16",
+    "rec_breath_calm_in_17",
+    "rec_breath_calm_in_18",
+    "rec_breath_calm_in_19"
+  ],
+  "breath_calm_out": [
+    "rec_breath_calm_out_0",
+    "rec_breath_calm_out_1",
+    "rec_breath_calm_out_2",
+    "rec_breath_calm_out_3",
+    "rec_breath_calm_out_4",
+    "rec_breath_calm_out_5",
+    "rec_breath_calm_out_6",
+    "rec_breath_calm_out_7",
+    "rec_breath_calm_out_8",
+    "rec_breath_calm_out_9",
+    "rec_breath_calm_out_10",
+    "rec_breath_calm_out_11",
+    "rec_breath_calm_out_12",
+    "rec_breath_calm_out_13",
+    "rec_breath_calm_out_14",
+    "rec_breath_calm_out_15",
+    "rec_breath_calm_out_16",
+    "rec_breath_calm_out_17",
+    "rec_breath_calm_out_18",
+    "rec_breath_calm_out_19"
+  ],
+  "breath_run_out": [
+    "rec_breath_exertion_out_0",
+    "rec_breath_exertion_out_1",
+    "rec_breath_exertion_out_2",
+    "rec_breath_exertion_out_3",
+    "rec_breath_exertion_out_4",
+    "rec_breath_exertion_out_5",
+    "rec_breath_exertion_out_6",
+    "rec_breath_exertion_out_7",
+    "rec_breath_exertion_out_8",
+    "rec_breath_exertion_out_9",
+    "rec_breath_exertion_out_10",
+    "rec_breath_exertion_out_11",
+    "rec_breath_exertion_out_12",
+    "rec_breath_exertion_out_13",
+    "rec_breath_exertion_out_14",
+    "rec_breath_exertion_out_15"
+  ],
+  "breath_run_in": [
+    "rec_breath_exertion_in_0",
+    "rec_breath_exertion_in_1",
+    "rec_breath_exertion_in_2",
+    "rec_breath_exertion_in_3",
+    "rec_breath_exertion_in_4",
+    "rec_breath_exertion_in_5",
+    "rec_breath_exertion_in_6",
+    "rec_breath_exertion_in_7",
+    "rec_breath_exertion_in_8",
+    "rec_breath_exertion_in_9",
+    "rec_breath_exertion_in_10",
+    "rec_breath_exertion_in_11",
+    "rec_breath_exertion_in_12",
+    "rec_breath_exertion_in_13",
+    "rec_breath_exertion_in_14",
+    "rec_breath_exertion_in_15",
+    "rec_breath_exertion_in_16",
+    "rec_breath_exertion_in_17"
+  ],
+  "door_close": [
+    "rec_door_heavy_impact",
+    "rec_door_slam2_impact",
+    "rec_door_slam3_impact"
+  ],
+  "door_close_metal": [
+    "rec_steel_close_impact"
+  ],
+  "door_creak": [
+    "rec_door_hinge_0",
+    "rec_door_hinge_1",
+    "rec_door_hinge_2",
+    "rec_door_hinge_3"
+  ],
+  "door_creak_metal": [
+    "rec_metal_hinge_0",
+    "rec_metal_hinge_1",
+    "rec_metal_hinge_2",
+    "rec_metal_hinge_3",
+    "rec_metal_hinge_4",
+    "rec_metal_hinge_5",
+    "rec_metal_hinge_6",
+    "rec_metal_hinge_7"
+  ],
+  "amb_metal_groan": [
+    "rec_metal_hinge_0",
+    "rec_metal_hinge_1",
+    "rec_metal_hinge_2",
+    "rec_metal_hinge_3",
+    "rec_metal_hinge_4",
+    "rec_metal_hinge_5",
+    "rec_metal_hinge_6",
+    "rec_metal_hinge_7"
+  ],
+  "valve_squeak": [
+    "rec_metal_hinge_0",
+    "rec_metal_hinge_1",
+    "rec_metal_hinge_2",
+    "rec_metal_hinge_3",
+    "rec_metal_hinge_4",
+    "rec_metal_hinge_5",
+    "rec_metal_hinge_6",
+    "rec_metal_hinge_7"
+  ],
+  "door_unlatch": [
+    "rec_door_key_0",
+    "rec_door_key_1",
+    "rec_door_key_2",
+    "rec_door_key_3",
+    "rec_door_key_4"
+  ],
+  "door_unlatch_metal": [
+    "rec_door_key_0",
+    "rec_door_key_1",
+    "rec_door_key_2",
+    "rec_door_key_3",
+    "rec_door_key_4"
+  ],
+  "door_locked": [
+    "rec_door_key_0",
+    "rec_door_key_1",
+    "rec_door_key_2",
+    "rec_door_key_3",
+    "rec_door_key_4"
+  ],
+  "amb_creak": [
+    "rec_door_wood_open_0",
+    "rec_door_wood_open_1",
+    "rec_door_wood_open_2"
+  ],
+  "amb_settle": [
+    "rec_door_wood_open_0",
+    "rec_door_wood_open_1",
+    "rec_door_wood_open_2"
+  ],
+  "amb_door_slam_far": [
+    "rec_door_heavy_impact",
+    "rec_door_slam2_impact",
+    "rec_door_slam3_impact"
+  ],
+  "amb_pipe_knock": [
+    "rec_steel_close_0",
+    "rec_steel_close_1"
+  ],
+  "amb_drip": [
+    "rec_drip_water_0",
+    "rec_drip_water_1",
+    "rec_drip_water_2",
+    "rec_drip_water_3",
+    "rec_drip_water_4",
+    "rec_drip_water_5",
+    "rec_drip_water_6",
+    "rec_drip_water_7",
+    "rec_drip_water_8",
+    "rec_drip_water_9",
+    "rec_drip_water_10",
+    "rec_drip_water_11",
+    "rec_drip_sink_0",
+    "rec_drip_sink_1",
+    "rec_drip_sink_2",
+    "rec_drip_sink_3",
+    "rec_drip_sink_4",
+    "rec_drip_sink_5",
+    "rec_drip_sink_6",
+    "rec_drip_sink_7"
+  ],
+  "light_tick": [
+    "rec_lamp_failure_0",
+    "rec_lamp_failure_1",
+    "rec_lamp_failure_2"
+  ],
+  "light_pop": [
+    "rec_lamp_failure_0",
+    "rec_lamp_failure_1",
+    "rec_lamp_failure_2"
+  ],
+  "light_buzz": [
+    "rec_ballast"
+  ],
+  "breaker_clunk": [
+    "rec_switch_real_0",
+    "rec_switch_real_1",
+    "rec_switch_real_2",
+    "rec_switch_real_3"
+  ],
+  "radio_click": [
+    "rec_switch_real_0",
+    "rec_switch_real_1",
+    "rec_switch_real_2",
+    "rec_switch_real_3"
+  ],
+  "tv_click": [
+    "rec_switch_real_0",
+    "rec_switch_real_1",
+    "rec_switch_real_2",
+    "rec_switch_real_3"
+  ],
+  "elev_button": [
+    "rec_switch_real_0",
+    "rec_switch_real_1",
+    "rec_switch_real_2",
+    "rec_switch_real_3"
+  ],
+  "power_up": [
+    "rec_switch_real_0",
+    "rec_switch_real_1",
+    "rec_switch_real_2",
+    "rec_switch_real_3"
+  ],
+  "power_down": [
+    "rec_switch_real_0",
+    "rec_switch_real_1",
+    "rec_switch_real_2",
+    "rec_switch_real_3"
+  ],
+  "amb_water_flow": [
+    "rec_water_flow"
+  ],
+  "amb_faucet_overflow": [
+    "rec_water_flow"
+  ],
+  "amb_water_trickle": [
+    "rec_water_trickle"
+  ],
+  "amb_faucet": [
+    "rec_faucet"
+  ],
+  "amb_fan": [
+    "rec_ventilation"
+  ],
+  "amb_crawl_air": [
+    "rec_ventilation"
+  ],
+  "amb_chute_wind": [
+    "rec_ventilation"
+  ],
+  "amb_wind_shaft": [
+    "rec_ventilation"
+  ],
+  "elev_shaft_wind": [
+    "rec_ventilation"
+  ],
+  "amb_pump": [
+    "rec_pump"
+  ],
+  "amb_boiler": [
+    "rec_pump"
+  ],
+  "amb_washer": [
+    "rec_pump"
+  ],
+  "amb_dryer": [
+    "rec_pump"
+  ],
+  "amb_fridge": [
+    "rec_fridge"
+  ],
+  "amb_vending": [
+    "rec_fridge"
+  ],
+  "amb_ice": [
+    "rec_fridge"
+  ],
+  "amb_transformer": [
+    "rec_transformer"
+  ],
+  "amb_generator": [
+    "rec_transformer"
+  ],
+  "amb_escalator": [
+    "rec_fan"
+  ],
+  "elev_motor": [
+    "rec_fan"
+  ],
+  "amb_elevator_machine": [
+    "rec_fan"
+  ],
+  "amb_rain": [
+    "rec_rain"
+  ],
+  "amb_rain_roof": [
+    "rec_rain"
+  ],
+  "amb_wind": [],
+  "amb_room_tone": [],
+  "amb_room_tone_low": [],
+  "amb_steam": [],
+  "amb_clock_tick": [
+    "rec_clock_tick"
+  ],
+  "clock_chime": [
+    "rec_clock_chime"
+  ],
+  "elev_chime": [
+    "rec_clock_chime"
+  ],
+  "bell_desk": [
+    "rec_bell_0"
+  ],
+  "test_beacon": [
+    "rec_bell_0"
+  ],
+  "amb_projector": [
+    "rec_projector"
+  ],
+  "projector_on": [
+    "rec_projector_0",
+    "rec_projector_1"
+  ],
+  "typewriter": [
+    "rec_typewriter_0",
+    "rec_typewriter_1",
+    "rec_typewriter_2",
+    "rec_typewriter_3",
+    "rec_typewriter_4",
+    "rec_typewriter_5",
+    "rec_typewriter_6",
+    "rec_typewriter_7"
+  ],
+  "phone_ring": [
+    "rec_phone_ring"
+  ],
+  "payphone_ring": [
+    "rec_phone_ring"
+  ],
+  "phone_pickup": [
+    "rec_phone_dial_0",
+    "rec_phone_dial_1",
+    "rec_phone_dial_2",
+    "rec_phone_dial_3"
+  ],
+  "phone_hangup": [
+    "rec_phone_dial_0",
+    "rec_phone_dial_1",
+    "rec_phone_dial_2",
+    "rec_phone_dial_3"
+  ],
+  "phone_dial_tone": [
+    "rec_phone_dial_0",
+    "rec_phone_dial_1",
+    "rec_phone_dial_2",
+    "rec_phone_dial_3"
+  ],
+  "radio_static": [
+    "rec_radio_static"
+  ],
+  "amb_tv_static": [
+    "rec_radio_static"
+  ],
+  "musicbox_wind": [
+    "rec_winder_0",
+    "rec_winder_1",
+    "rec_winder_2",
+    "rec_winder_3",
+    "rec_winder_4"
+  ],
+  "juke_select": [
+    "rec_winder_0",
+    "rec_winder_1",
+    "rec_winder_2",
+    "rec_winder_3",
+    "rec_winder_4"
+  ],
+  "gramophone_needle": [
+    "rec_winder_0",
+    "rec_winder_1",
+    "rec_winder_2",
+    "rec_winder_3",
+    "rec_winder_4"
+  ],
+  "ui_tape": [
+    "rec_cassette"
+  ],
+  "ui_ff": [
+    "rec_cassette"
+  ],
+  "ui_blip": [
+    "rec_switch_real_0",
+    "rec_switch_real_1",
+    "rec_switch_real_2",
+    "rec_switch_real_3"
+  ],
+  "ice_drop": [
+    "rec_ice"
+  ],
+  "vending_buy": [
+    "rec_ice"
+  ],
+  "amb_glass": [
+    "rec_glass_break_0",
+    "rec_glass_break_1",
+    "rec_glass_break_2",
+    "rec_glass_break_3"
+  ],
+  "amb_debris": [
+    "rec_glass_break_0",
+    "rec_glass_break_1",
+    "rec_glass_break_2",
+    "rec_glass_break_3"
+  ],
+  "amb_plastic_flap": [
+    "rec_cloth_rustle_0",
+    "rec_cloth_rustle_1",
+    "rec_cloth_rustle_2",
+    "rec_cloth_rustle_3",
+    "rec_cloth_rustle_4",
+    "rec_cloth_rustle_5",
+    "rec_cloth_rustle_6",
+    "rec_cloth_rustle_7"
+  ],
+  "elev_door": [
+    "rec_steel_open"
+  ],
+  "elev_creak": [
+    "rec_steel_open"
+  ],
+  "elev_start": [
+    "rec_switch_real_0",
+    "rec_switch_real_1",
+    "rec_switch_real_2",
+    "rec_switch_real_3"
+  ],
+  "elev_stop": [
+    "rec_switch_real_0",
+    "rec_switch_real_1",
+    "rec_switch_real_2",
+    "rec_switch_real_3"
+  ],
+  "radio_station_1": [
+    "rec_voice_en"
+  ],
+  "radio_station_4": [
+    "rec_voice_en"
+  ],
+  "phone_voice_1": [
+    "rec_voice_en"
+  ],
+  "phone_voice_3": [
+    "rec_voice_en"
+  ],
+  "tv_news": [
+    "rec_voice_en"
+  ],
+  "radio_station_5": [
+    "rec_voice_fr"
+  ],
+  "phone_voice_2": [
+    "rec_voice_fr"
+  ],
+  "phone_voice_4": [
+    "rec_voice_fr"
+  ],
+  "tv_show": [
+    "rec_voice_fr"
+  ],
+  "tv_computer": [
+    "rec_voice_fr"
+  ],
+  "musicbox_lullaby": [
+    "rec_musicbox"
+  ],
+  "musicbox_lullaby_reverse": [
+    "rec_musicbox"
+  ],
+  "musicbox_waltz_box": [
+    "rec_musicbox"
+  ],
+  "musicbox_carousel": [
+    "rec_musicbox"
+  ],
+  "note_grand_0": [
+    "piano_recorded_0"
+  ],
+  "note_detuned_0": [
+    "piano_recorded_0"
+  ],
+  "note_toy_0": [
+    "piano_recorded_0"
+  ],
+  "note_organ_0": [
+    "piano_recorded_0"
+  ],
+  "note_grand_1": [
+    "piano_recorded_1"
+  ],
+  "note_detuned_1": [
+    "piano_recorded_1"
+  ],
+  "note_toy_1": [
+    "piano_recorded_1"
+  ],
+  "note_organ_1": [
+    "piano_recorded_1"
+  ],
+  "note_grand_2": [
+    "piano_recorded_2"
+  ],
+  "note_detuned_2": [
+    "piano_recorded_2"
+  ],
+  "note_toy_2": [
+    "piano_recorded_2"
+  ],
+  "note_organ_2": [
+    "piano_recorded_2"
+  ],
+  "note_grand_3": [
+    "piano_recorded_3"
+  ],
+  "note_detuned_3": [
+    "piano_recorded_3"
+  ],
+  "note_toy_3": [
+    "piano_recorded_3"
+  ],
+  "note_organ_3": [
+    "piano_recorded_3"
+  ],
+  "note_grand_4": [
+    "piano_recorded_4"
+  ],
+  "note_detuned_4": [
+    "piano_recorded_4"
+  ],
+  "note_toy_4": [
+    "piano_recorded_4"
+  ],
+  "note_organ_4": [
+    "piano_recorded_4"
+  ],
+  "note_grand_5": [
+    "piano_recorded_5"
+  ],
+  "note_detuned_5": [
+    "piano_recorded_5"
+  ],
+  "note_toy_5": [
+    "piano_recorded_5"
+  ],
+  "note_organ_5": [
+    "piano_recorded_5"
+  ],
+  "note_grand_6": [
+    "piano_recorded_6"
+  ],
+  "note_detuned_6": [
+    "piano_recorded_6"
+  ],
+  "note_toy_6": [
+    "piano_recorded_6"
+  ],
+  "note_organ_6": [
+    "piano_recorded_6"
+  ],
+  "note_grand_7": [
+    "piano_recorded_7"
+  ],
+  "note_detuned_7": [
+    "piano_recorded_7"
+  ],
+  "note_toy_7": [
+    "piano_recorded_7"
+  ],
+  "note_organ_7": [
+    "piano_recorded_7"
+  ],
+  "note_grand_8": [
+    "piano_recorded_8"
+  ],
+  "note_detuned_8": [
+    "piano_recorded_8"
+  ],
+  "note_toy_8": [
+    "piano_recorded_8"
+  ],
+  "note_organ_8": [
+    "piano_recorded_8"
+  ],
+  "note_grand_9": [
+    "piano_recorded_9"
+  ],
+  "note_detuned_9": [
+    "piano_recorded_9"
+  ],
+  "note_toy_9": [
+    "piano_recorded_9"
+  ],
+  "note_organ_9": [
+    "piano_recorded_9"
+  ],
+  "piano_tune_grand": [
+    "rec_piano_tune_grand"
+  ],
+  "piano_tune_detuned": [
+    "rec_piano_tune_detuned"
+  ],
+  "piano_tune_toy": [
+    "rec_piano_tune_toy"
+  ],
+  "piano_tune_organ": [
+    "rec_piano_tune_organ"
+  ],
+  "record_elise": [
+    "rec_record_elise"
+  ],
+  "record_waltz": [
+    "rec_record_waltz"
+  ],
+  "record_lullaby": [
+    "rec_record_lullaby"
+  ],
+  "record_nocturne": [
+    "rec_record_nocturne"
+  ],
+  "piano_lounge": [
+    "rec_piano_tune_grand"
+  ],
+  "radio_station_0": [
+    "rec_record_waltz"
+  ],
+  "gramophone_waltz": [
+    "rec_record_waltz"
+  ],
+  "juke_doowop": [
+    "rec_record_waltz"
+  ],
+  "radio_station_2": [
+    "rec_record_lullaby"
+  ],
+  "juke_swing": [
+    "rec_record_lullaby"
+  ],
+  "gramophone_waltz_old": [
+    "rec_record_lullaby"
+  ],
+  "elev_muzak": [
+    "rec_record_lullaby"
+  ],
+  "radio_station_3": [
+    "rec_record_elise"
+  ],
+  "juke_ballad": [
+    "rec_record_elise"
+  ],
+  "gramophone_love_song": [
+    "rec_record_elise"
+  ],
+  "gramophone_waltz_slow": [
+    "rec_record_nocturne"
+  ],
+  "monster_step": [
+    "step_concrete_0",
+    "step_concrete_1",
+    "step_concrete_2",
+    "step_concrete_3",
+    "step_concrete_4",
+    "step_concrete_5",
+    "step_concrete_6",
+    "step_concrete_7",
+    "step_concrete_8"
+  ],
+  "fs_concrete_0": [
+    "step_concrete_0"
+  ],
+  "fs_concrete_1": [
+    "step_concrete_1"
+  ],
+  "fs_concrete_2": [
+    "step_concrete_2"
+  ],
+  "fs_concrete_3": [
+    "step_concrete_3"
+  ],
+  "fs_concrete_4": [
+    "step_concrete_4"
+  ],
+  "fs_concrete_5": [
+    "step_concrete_5"
+  ],
+  "fs_concrete_6": [
+    "step_concrete_6"
+  ],
+  "fs_concrete_7": [
+    "step_concrete_7"
+  ],
+  "fs_concrete_8": [
+    "step_concrete_8"
+  ],
+  "land_concrete_0": [
+    "step_concrete_0"
+  ],
+  "land_concrete_1": [
+    "step_concrete_1"
+  ],
+  "land_concrete_2": [
+    "step_concrete_2"
+  ],
+  "land_concrete_3": [
+    "step_concrete_3"
+  ],
+  "land_concrete_4": [
+    "step_concrete_4"
+  ],
+  "land_concrete_5": [
+    "step_concrete_5"
+  ],
+  "land_concrete_6": [
+    "step_concrete_6"
+  ],
+  "land_concrete_7": [
+    "step_concrete_7"
+  ],
+  "land_concrete_8": [
+    "step_concrete_8"
+  ],
+  "fs_wood_0": [
+    "step_wood_0"
+  ],
+  "fs_wood_1": [
+    "step_wood_1"
+  ],
+  "fs_wood_2": [
+    "step_wood_2"
+  ],
+  "fs_wood_3": [
+    "step_wood_3"
+  ],
+  "fs_wood_4": [
+    "step_wood_4"
+  ],
+  "fs_wood_5": [
+    "step_wood_5"
+  ],
+  "fs_wood_6": [
+    "step_wood_6"
+  ],
+  "fs_wood_7": [
+    "step_wood_7"
+  ],
+  "fs_wood_8": [
+    "step_wood_8"
+  ],
+  "land_wood_0": [
+    "step_wood_0"
+  ],
+  "land_wood_1": [
+    "step_wood_1"
+  ],
+  "land_wood_2": [
+    "step_wood_2"
+  ],
+  "land_wood_3": [
+    "step_wood_3"
+  ],
+  "land_wood_4": [
+    "step_wood_4"
+  ],
+  "land_wood_5": [
+    "step_wood_5"
+  ],
+  "land_wood_6": [
+    "step_wood_6"
+  ],
+  "land_wood_7": [
+    "step_wood_7"
+  ],
+  "land_wood_8": [
+    "step_wood_8"
+  ],
+  "fs_tile_0": [
+    "step_tile_0"
+  ],
+  "fs_tile_1": [
+    "step_tile_1"
+  ],
+  "fs_tile_2": [
+    "step_tile_2"
+  ],
+  "fs_tile_3": [
+    "step_tile_3"
+  ],
+  "fs_tile_4": [
+    "step_tile_4"
+  ],
+  "fs_tile_5": [
+    "step_tile_5"
+  ],
+  "fs_tile_6": [
+    "step_tile_6"
+  ],
+  "fs_tile_7": [
+    "step_tile_7"
+  ],
+  "fs_tile_8": [
+    "step_tile_8"
+  ],
+  "land_tile_0": [
+    "step_tile_0"
+  ],
+  "land_tile_1": [
+    "step_tile_1"
+  ],
+  "land_tile_2": [
+    "step_tile_2"
+  ],
+  "land_tile_3": [
+    "step_tile_3"
+  ],
+  "land_tile_4": [
+    "step_tile_4"
+  ],
+  "land_tile_5": [
+    "step_tile_5"
+  ],
+  "land_tile_6": [
+    "step_tile_6"
+  ],
+  "land_tile_7": [
+    "step_tile_7"
+  ],
+  "land_tile_8": [
+    "step_tile_8"
+  ],
+  "fs_metal_0": [
+    "step_metal_0"
+  ],
+  "fs_metal_1": [
+    "step_metal_1"
+  ],
+  "fs_metal_2": [
+    "step_metal_2"
+  ],
+  "fs_metal_3": [
+    "step_metal_3"
+  ],
+  "fs_metal_4": [
+    "step_metal_4"
+  ],
+  "fs_metal_5": [
+    "step_metal_5"
+  ],
+  "fs_metal_6": [
+    "step_metal_6"
+  ],
+  "fs_metal_7": [
+    "step_metal_7"
+  ],
+  "land_metal_0": [
+    "step_metal_0"
+  ],
+  "land_metal_1": [
+    "step_metal_1"
+  ],
+  "land_metal_2": [
+    "step_metal_2"
+  ],
+  "land_metal_3": [
+    "step_metal_3"
+  ],
+  "land_metal_4": [
+    "step_metal_4"
+  ],
+  "land_metal_5": [
+    "step_metal_5"
+  ],
+  "land_metal_6": [
+    "step_metal_6"
+  ],
+  "land_metal_7": [
+    "step_metal_7"
+  ],
+  "fs_water_0": [
+    "step_water_0"
+  ],
+  "fs_water_1": [
+    "step_water_1"
+  ],
+  "fs_water_2": [
+    "step_water_2"
+  ],
+  "fs_water_3": [
+    "step_water_3"
+  ],
+  "fs_water_4": [
+    "step_water_4"
+  ],
+  "land_water_0": [
+    "step_water_0"
+  ],
+  "land_water_1": [
+    "step_water_1"
+  ],
+  "land_water_2": [
+    "step_water_2"
+  ],
+  "land_water_3": [
+    "step_water_3"
+  ],
+  "land_water_4": [
+    "step_water_4"
+  ],
+  "fs_rubble_0": [
+    "step_rubble_0"
+  ],
+  "fs_rubble_1": [
+    "step_rubble_1"
+  ],
+  "fs_rubble_2": [
+    "step_rubble_2"
+  ],
+  "fs_rubble_3": [
+    "step_rubble_3"
+  ],
+  "fs_rubble_4": [
+    "step_rubble_4"
+  ],
+  "fs_rubble_5": [
+    "step_rubble_5"
+  ],
+  "fs_rubble_6": [
+    "step_rubble_6"
+  ],
+  "fs_rubble_7": [
+    "step_rubble_7"
+  ],
+  "fs_rubble_8": [
+    "step_rubble_8"
+  ],
+  "fs_rubble_9": [
+    "step_rubble_9"
+  ],
+  "land_rubble_0": [
+    "step_rubble_0"
+  ],
+  "land_rubble_1": [
+    "step_rubble_1"
+  ],
+  "land_rubble_2": [
+    "step_rubble_2"
+  ],
+  "land_rubble_3": [
+    "step_rubble_3"
+  ],
+  "land_rubble_4": [
+    "step_rubble_4"
+  ],
+  "land_rubble_5": [
+    "step_rubble_5"
+  ],
+  "land_rubble_6": [
+    "step_rubble_6"
+  ],
+  "land_rubble_7": [
+    "step_rubble_7"
+  ],
+  "land_rubble_8": [
+    "step_rubble_8"
+  ],
+  "land_rubble_9": [
+    "step_rubble_9"
+  ],
+  "fs_carpet_0": [
+    "rec_carpet_0"
+  ],
+  "fs_carpet_1": [
+    "rec_carpet_1"
+  ],
+  "fs_carpet_2": [
+    "rec_carpet_2"
+  ],
+  "fs_carpet_3": [
+    "rec_carpet_3"
+  ],
+  "fs_carpet_4": [
+    "rec_carpet_4"
+  ],
+  "fs_carpet_5": [
+    "rec_carpet_5"
+  ],
+  "fs_carpet_6": [
+    "rec_carpet_6"
+  ],
+  "fs_carpet_7": [
+    "rec_carpet_7"
+  ],
+  "land_carpet_0": [
+    "rec_carpet_0"
+  ],
+  "land_carpet_1": [
+    "rec_carpet_1"
+  ],
+  "land_carpet_2": [
+    "rec_carpet_2"
+  ],
+  "land_carpet_3": [
+    "rec_carpet_3"
+  ],
+  "land_carpet_4": [
+    "rec_carpet_4"
+  ],
+  "land_carpet_5": [
+    "rec_carpet_5"
+  ],
+  "land_carpet_6": [
+    "rec_carpet_6"
+  ],
+  "land_carpet_7": [
+    "rec_carpet_7"
+  ],
+  "fs_rubber_0": [
+    "step_concrete_0"
+  ],
+  "fs_rubber_1": [
+    "step_concrete_1"
+  ],
+  "fs_rubber_2": [
+    "step_concrete_2"
+  ],
+  "fs_rubber_3": [
+    "step_concrete_3"
+  ],
+  "fs_rubber_4": [
+    "step_concrete_4"
+  ],
+  "fs_rubber_5": [
+    "step_concrete_5"
+  ],
+  "fs_rubber_6": [
+    "step_concrete_6"
+  ],
+  "fs_rubber_7": [
+    "step_concrete_7"
+  ],
+  "fs_rubber_8": [
+    "step_concrete_8"
+  ],
+  "land_rubber_0": [
+    "step_concrete_0"
+  ],
+  "land_rubber_1": [
+    "step_concrete_1"
+  ],
+  "land_rubber_2": [
+    "step_concrete_2"
+  ],
+  "land_rubber_3": [
+    "step_concrete_3"
+  ],
+  "land_rubber_4": [
+    "step_concrete_4"
+  ],
+  "land_rubber_5": [
+    "step_concrete_5"
+  ],
+  "land_rubber_6": [
+    "step_concrete_6"
+  ],
+  "land_rubber_7": [
+    "step_concrete_7"
+  ],
+  "land_rubber_8": [
+    "step_concrete_8"
+  ],
+  "fs_escalator_0": [
+    "step_metal_0"
+  ],
+  "fs_escalator_1": [
+    "step_metal_1"
+  ],
+  "fs_escalator_2": [
+    "step_metal_2"
+  ],
+  "fs_escalator_3": [
+    "step_metal_3"
+  ],
+  "fs_escalator_4": [
+    "step_metal_4"
+  ],
+  "fs_escalator_5": [
+    "step_metal_5"
+  ],
+  "fs_escalator_6": [
+    "step_metal_6"
+  ],
+  "fs_escalator_7": [
+    "step_metal_7"
+  ],
+  "land_escalator_0": [
+    "step_metal_0"
+  ],
+  "land_escalator_1": [
+    "step_metal_1"
+  ],
+  "land_escalator_2": [
+    "step_metal_2"
+  ],
+  "land_escalator_3": [
+    "step_metal_3"
+  ],
+  "land_escalator_4": [
+    "step_metal_4"
+  ],
+  "land_escalator_5": [
+    "step_metal_5"
+  ],
+  "land_escalator_6": [
+    "step_metal_6"
+  ],
+  "land_escalator_7": [
+    "step_metal_7"
+  ],
+  "fs_run_concrete_0": [
+    "rec_concrete_run_0"
+  ],
+  "fs_run_concrete_1": [
+    "rec_concrete_run_1"
+  ],
+  "fs_run_concrete_2": [
+    "rec_concrete_run_2"
+  ],
+  "fs_run_concrete_3": [
+    "rec_concrete_run_3"
+  ],
+  "fs_run_concrete_4": [
+    "rec_concrete_run_4"
+  ],
+  "fs_run_concrete_5": [
+    "rec_concrete_run_5"
+  ],
+  "fs_run_concrete_6": [
+    "rec_concrete_run_6"
+  ],
+  "fs_run_concrete_7": [
+    "rec_concrete_run_7"
+  ],
+  "fs_run_concrete_8": [
+    "rec_concrete_run_8"
+  ],
+  "fs_run_concrete_9": [
+    "rec_concrete_run_9"
+  ],
+  "cloth_0": [
+    "rec_cloth_rustle_0"
+  ],
+  "cloth_1": [
+    "rec_cloth_rustle_1"
+  ],
+  "cloth_2": [
+    "rec_cloth_rustle_2"
+  ],
+  "cloth_3": [
+    "rec_cloth_rustle_3"
+  ],
+  "cloth_4": [
+    "rec_cloth_rustle_4"
+  ],
+  "cloth_5": [
+    "rec_cloth_rustle_5"
+  ],
+  "cloth_6": [
+    "rec_cloth_rustle_6"
+  ],
+  "cloth_7": [
+    "rec_cloth_rustle_7"
+  ],
+  "breath_calm_0": [
+    "rec_breath_calm_phrase0"
+  ],
+  "breath_calm_1": [
+    "rec_breath_calm_phrase1"
+  ],
+  "breath_calm_2": [
+    "rec_breath_calm_phrase2"
+  ],
+  "breath_calm_3": [
+    "rec_breath_calm_phrase3"
+  ],
+  "breath_calm_4": [
+    "rec_breath_calm_phrase4"
+  ],
+  "breath_calm_5": [
+    "rec_breath_calm_phrase5"
+  ],
+  "breath_calm_6": [
+    "rec_breath_calm_phrase6"
+  ],
+  "breath_calm_7": [
+    "rec_breath_calm_phrase7"
+  ],
+  "breath_heavy_0": [
+    "rec_breath_exertion_phrase0"
+  ],
+  "breath_heavy_1": [
+    "rec_breath_exertion_phrase1"
+  ],
+  "breath_heavy_2": [
+    "rec_breath_exertion_phrase2"
+  ],
+  "breath_heavy_3": [
+    "rec_breath_exertion_phrase3"
+  ],
+  "breath_heavy_4": [
+    "rec_breath_exertion_phrase4"
+  ],
+  "breath_recovery_0": [
+    "rec_breath_exertion_phrase0"
+  ],
+  "breath_recovery_1": [
+    "rec_breath_exertion_phrase1"
+  ],
+  "breath_recovery_2": [
+    "rec_breath_exertion_phrase2"
+  ],
+  "breath_recovery_3": [
+    "rec_breath_exertion_phrase3"
+  ],
+  "breath_recovery_4": [
+    "rec_breath_exertion_phrase4"
+  ],
+  "monster_breath_0": [
+    "rec_breath_exertion_phrase0"
+  ],
+  "monster_breath_1": [
+    "rec_breath_exertion_phrase1"
+  ],
+  "monster_breath_2": [
+    "rec_breath_exertion_phrase2"
+  ],
+  "monster_breath_3": [
+    "rec_breath_exertion_phrase3"
+  ],
+  "monster_breath_4": [
+    "rec_breath_exertion_phrase4"
+  ],
+  "breath_calm_in_0": [
+    "rec_breath_calm_in_0"
+  ],
+  "breath_calm_in_1": [
+    "rec_breath_calm_in_1"
+  ],
+  "breath_calm_in_2": [
+    "rec_breath_calm_in_2"
+  ],
+  "breath_calm_in_3": [
+    "rec_breath_calm_in_3"
+  ],
+  "breath_calm_in_4": [
+    "rec_breath_calm_in_4"
+  ],
+  "breath_calm_in_5": [
+    "rec_breath_calm_in_5"
+  ],
+  "breath_calm_in_6": [
+    "rec_breath_calm_in_6"
+  ],
+  "breath_calm_in_7": [
+    "rec_breath_calm_in_7"
+  ],
+  "breath_calm_in_8": [
+    "rec_breath_calm_in_8"
+  ],
+  "breath_calm_in_9": [
+    "rec_breath_calm_in_9"
+  ],
+  "breath_calm_in_10": [
+    "rec_breath_calm_in_10"
+  ],
+  "breath_calm_in_11": [
+    "rec_breath_calm_in_11"
+  ],
+  "breath_calm_in_12": [
+    "rec_breath_calm_in_12"
+  ],
+  "breath_calm_in_13": [
+    "rec_breath_calm_in_13"
+  ],
+  "breath_calm_in_14": [
+    "rec_breath_calm_in_14"
+  ],
+  "breath_calm_in_15": [
+    "rec_breath_calm_in_15"
+  ],
+  "breath_calm_in_16": [
+    "rec_breath_calm_in_16"
+  ],
+  "breath_calm_in_17": [
+    "rec_breath_calm_in_17"
+  ],
+  "breath_calm_in_18": [
+    "rec_breath_calm_in_18"
+  ],
+  "breath_calm_in_19": [
+    "rec_breath_calm_in_19"
+  ],
+  "breath_calm_out_0": [
+    "rec_breath_calm_out_0"
+  ],
+  "breath_calm_out_1": [
+    "rec_breath_calm_out_1"
+  ],
+  "breath_calm_out_2": [
+    "rec_breath_calm_out_2"
+  ],
+  "breath_calm_out_3": [
+    "rec_breath_calm_out_3"
+  ],
+  "breath_calm_out_4": [
+    "rec_breath_calm_out_4"
+  ],
+  "breath_calm_out_5": [
+    "rec_breath_calm_out_5"
+  ],
+  "breath_calm_out_6": [
+    "rec_breath_calm_out_6"
+  ],
+  "breath_calm_out_7": [
+    "rec_breath_calm_out_7"
+  ],
+  "breath_calm_out_8": [
+    "rec_breath_calm_out_8"
+  ],
+  "breath_calm_out_9": [
+    "rec_breath_calm_out_9"
+  ],
+  "breath_calm_out_10": [
+    "rec_breath_calm_out_10"
+  ],
+  "breath_calm_out_11": [
+    "rec_breath_calm_out_11"
+  ],
+  "breath_calm_out_12": [
+    "rec_breath_calm_out_12"
+  ],
+  "breath_calm_out_13": [
+    "rec_breath_calm_out_13"
+  ],
+  "breath_calm_out_14": [
+    "rec_breath_calm_out_14"
+  ],
+  "breath_calm_out_15": [
+    "rec_breath_calm_out_15"
+  ],
+  "breath_calm_out_16": [
+    "rec_breath_calm_out_16"
+  ],
+  "breath_calm_out_17": [
+    "rec_breath_calm_out_17"
+  ],
+  "breath_calm_out_18": [
+    "rec_breath_calm_out_18"
+  ],
+  "breath_calm_out_19": [
+    "rec_breath_calm_out_19"
+  ],
+  "breath_run_out_0": [
+    "rec_breath_exertion_out_0"
+  ],
+  "breath_run_out_1": [
+    "rec_breath_exertion_out_1"
+  ],
+  "breath_run_out_2": [
+    "rec_breath_exertion_out_2"
+  ],
+  "breath_run_out_3": [
+    "rec_breath_exertion_out_3"
+  ],
+  "breath_run_out_4": [
+    "rec_breath_exertion_out_4"
+  ],
+  "breath_run_out_5": [
+    "rec_breath_exertion_out_5"
+  ],
+  "breath_run_out_6": [
+    "rec_breath_exertion_out_6"
+  ],
+  "breath_run_out_7": [
+    "rec_breath_exertion_out_7"
+  ],
+  "breath_run_out_8": [
+    "rec_breath_exertion_out_8"
+  ],
+  "breath_run_out_9": [
+    "rec_breath_exertion_out_9"
+  ],
+  "breath_run_out_10": [
+    "rec_breath_exertion_out_10"
+  ],
+  "breath_run_out_11": [
+    "rec_breath_exertion_out_11"
+  ],
+  "breath_run_out_12": [
+    "rec_breath_exertion_out_12"
+  ],
+  "breath_run_out_13": [
+    "rec_breath_exertion_out_13"
+  ],
+  "breath_run_out_14": [
+    "rec_breath_exertion_out_14"
+  ],
+  "breath_run_out_15": [
+    "rec_breath_exertion_out_15"
+  ],
+  "breath_run_in_0": [
+    "rec_breath_exertion_in_0"
+  ],
+  "breath_run_in_1": [
+    "rec_breath_exertion_in_1"
+  ],
+  "breath_run_in_2": [
+    "rec_breath_exertion_in_2"
+  ],
+  "breath_run_in_3": [
+    "rec_breath_exertion_in_3"
+  ],
+  "breath_run_in_4": [
+    "rec_breath_exertion_in_4"
+  ],
+  "breath_run_in_5": [
+    "rec_breath_exertion_in_5"
+  ],
+  "breath_run_in_6": [
+    "rec_breath_exertion_in_6"
+  ],
+  "breath_run_in_7": [
+    "rec_breath_exertion_in_7"
+  ],
+  "breath_run_in_8": [
+    "rec_breath_exertion_in_8"
+  ],
+  "breath_run_in_9": [
+    "rec_breath_exertion_in_9"
+  ],
+  "breath_run_in_10": [
+    "rec_breath_exertion_in_10"
+  ],
+  "breath_run_in_11": [
+    "rec_breath_exertion_in_11"
+  ],
+  "breath_run_in_12": [
+    "rec_breath_exertion_in_12"
+  ],
+  "breath_run_in_13": [
+    "rec_breath_exertion_in_13"
+  ],
+  "breath_run_in_14": [
+    "rec_breath_exertion_in_14"
+  ],
+  "breath_run_in_15": [
+    "rec_breath_exertion_in_15"
+  ],
+  "breath_run_in_16": [
+    "rec_breath_exertion_in_16"
+  ],
+  "breath_run_in_17": [
+    "rec_breath_exertion_in_17"
+  ],
+  "door_close_0": [
+    "rec_door_heavy_impact"
+  ],
+  "door_close_1": [
+    "rec_door_slam2_impact"
+  ],
+  "door_close_2": [
+    "rec_door_slam3_impact"
+  ],
+  "door_close_metal_0": [
+    "rec_steel_close_impact"
+  ],
+  "door_creak_0": [
+    "rec_door_hinge_0"
+  ],
+  "door_creak_1": [
+    "rec_door_hinge_1"
+  ],
+  "door_creak_2": [
+    "rec_door_hinge_2"
+  ],
+  "door_creak_3": [
+    "rec_door_hinge_3"
+  ],
+  "door_creak_metal_0": [
+    "rec_metal_hinge_0"
+  ],
+  "door_creak_metal_1": [
+    "rec_metal_hinge_1"
+  ],
+  "door_creak_metal_2": [
+    "rec_metal_hinge_2"
+  ],
+  "door_creak_metal_3": [
+    "rec_metal_hinge_3"
+  ],
+  "door_creak_metal_4": [
+    "rec_metal_hinge_4"
+  ],
+  "door_creak_metal_5": [
+    "rec_metal_hinge_5"
+  ],
+  "door_creak_metal_6": [
+    "rec_metal_hinge_6"
+  ],
+  "door_creak_metal_7": [
+    "rec_metal_hinge_7"
+  ],
+  "amb_metal_groan_0": [
+    "rec_metal_hinge_0"
+  ],
+  "amb_metal_groan_1": [
+    "rec_metal_hinge_1"
+  ],
+  "amb_metal_groan_2": [
+    "rec_metal_hinge_2"
+  ],
+  "amb_metal_groan_3": [
+    "rec_metal_hinge_3"
+  ],
+  "amb_metal_groan_4": [
+    "rec_metal_hinge_4"
+  ],
+  "amb_metal_groan_5": [
+    "rec_metal_hinge_5"
+  ],
+  "amb_metal_groan_6": [
+    "rec_metal_hinge_6"
+  ],
+  "amb_metal_groan_7": [
+    "rec_metal_hinge_7"
+  ],
+  "valve_squeak_0": [
+    "rec_metal_hinge_0"
+  ],
+  "valve_squeak_1": [
+    "rec_metal_hinge_1"
+  ],
+  "valve_squeak_2": [
+    "rec_metal_hinge_2"
+  ],
+  "valve_squeak_3": [
+    "rec_metal_hinge_3"
+  ],
+  "valve_squeak_4": [
+    "rec_metal_hinge_4"
+  ],
+  "valve_squeak_5": [
+    "rec_metal_hinge_5"
+  ],
+  "valve_squeak_6": [
+    "rec_metal_hinge_6"
+  ],
+  "valve_squeak_7": [
+    "rec_metal_hinge_7"
+  ],
+  "door_unlatch_0": [
+    "rec_door_key_0"
+  ],
+  "door_unlatch_1": [
+    "rec_door_key_1"
+  ],
+  "door_unlatch_2": [
+    "rec_door_key_2"
+  ],
+  "door_unlatch_3": [
+    "rec_door_key_3"
+  ],
+  "door_unlatch_4": [
+    "rec_door_key_4"
+  ],
+  "door_unlatch_metal_0": [
+    "rec_door_key_0"
+  ],
+  "door_unlatch_metal_1": [
+    "rec_door_key_1"
+  ],
+  "door_unlatch_metal_2": [
+    "rec_door_key_2"
+  ],
+  "door_unlatch_metal_3": [
+    "rec_door_key_3"
+  ],
+  "door_unlatch_metal_4": [
+    "rec_door_key_4"
+  ],
+  "door_locked_0": [
+    "rec_door_key_0"
+  ],
+  "door_locked_1": [
+    "rec_door_key_1"
+  ],
+  "door_locked_2": [
+    "rec_door_key_2"
+  ],
+  "door_locked_3": [
+    "rec_door_key_3"
+  ],
+  "door_locked_4": [
+    "rec_door_key_4"
+  ],
+  "amb_creak_0": [
+    "rec_door_wood_open_0"
+  ],
+  "amb_creak_1": [
+    "rec_door_wood_open_1"
+  ],
+  "amb_creak_2": [
+    "rec_door_wood_open_2"
+  ],
+  "amb_settle_0": [
+    "rec_door_wood_open_0"
+  ],
+  "amb_settle_1": [
+    "rec_door_wood_open_1"
+  ],
+  "amb_settle_2": [
+    "rec_door_wood_open_2"
+  ],
+  "amb_door_slam_far_0": [
+    "rec_door_heavy_impact"
+  ],
+  "amb_door_slam_far_1": [
+    "rec_door_slam2_impact"
+  ],
+  "amb_door_slam_far_2": [
+    "rec_door_slam3_impact"
+  ],
+  "amb_pipe_knock_0": [
+    "rec_steel_close_0"
+  ],
+  "amb_pipe_knock_1": [
+    "rec_steel_close_1"
+  ],
+  "amb_drip_0": [
+    "rec_drip_water_0"
+  ],
+  "amb_drip_1": [
+    "rec_drip_water_1"
+  ],
+  "amb_drip_2": [
+    "rec_drip_water_2"
+  ],
+  "amb_drip_3": [
+    "rec_drip_water_3"
+  ],
+  "amb_drip_4": [
+    "rec_drip_water_4"
+  ],
+  "amb_drip_5": [
+    "rec_drip_water_5"
+  ],
+  "amb_drip_6": [
+    "rec_drip_water_6"
+  ],
+  "amb_drip_7": [
+    "rec_drip_water_7"
+  ],
+  "amb_drip_8": [
+    "rec_drip_water_8"
+  ],
+  "amb_drip_9": [
+    "rec_drip_water_9"
+  ],
+  "amb_drip_10": [
+    "rec_drip_water_10"
+  ],
+  "amb_drip_11": [
+    "rec_drip_water_11"
+  ],
+  "amb_drip_12": [
+    "rec_drip_sink_0"
+  ],
+  "amb_drip_13": [
+    "rec_drip_sink_1"
+  ],
+  "amb_drip_14": [
+    "rec_drip_sink_2"
+  ],
+  "amb_drip_15": [
+    "rec_drip_sink_3"
+  ],
+  "amb_drip_16": [
+    "rec_drip_sink_4"
+  ],
+  "amb_drip_17": [
+    "rec_drip_sink_5"
+  ],
+  "amb_drip_18": [
+    "rec_drip_sink_6"
+  ],
+  "amb_drip_19": [
+    "rec_drip_sink_7"
+  ],
+  "light_tick_0": [
+    "rec_lamp_failure_0"
+  ],
+  "light_tick_1": [
+    "rec_lamp_failure_1"
+  ],
+  "light_tick_2": [
+    "rec_lamp_failure_2"
+  ],
+  "light_pop_0": [
+    "rec_lamp_failure_0"
+  ],
+  "light_pop_1": [
+    "rec_lamp_failure_1"
+  ],
+  "light_pop_2": [
+    "rec_lamp_failure_2"
+  ],
+  "light_buzz_0": [
+    "rec_ballast"
+  ],
+  "breaker_clunk_0": [
+    "rec_switch_real_0"
+  ],
+  "breaker_clunk_1": [
+    "rec_switch_real_1"
+  ],
+  "breaker_clunk_2": [
+    "rec_switch_real_2"
+  ],
+  "breaker_clunk_3": [
+    "rec_switch_real_3"
+  ],
+  "radio_click_0": [
+    "rec_switch_real_0"
+  ],
+  "radio_click_1": [
+    "rec_switch_real_1"
+  ],
+  "radio_click_2": [
+    "rec_switch_real_2"
+  ],
+  "radio_click_3": [
+    "rec_switch_real_3"
+  ],
+  "tv_click_0": [
+    "rec_switch_real_0"
+  ],
+  "tv_click_1": [
+    "rec_switch_real_1"
+  ],
+  "tv_click_2": [
+    "rec_switch_real_2"
+  ],
+  "tv_click_3": [
+    "rec_switch_real_3"
+  ],
+  "elev_button_0": [
+    "rec_switch_real_0"
+  ],
+  "elev_button_1": [
+    "rec_switch_real_1"
+  ],
+  "elev_button_2": [
+    "rec_switch_real_2"
+  ],
+  "elev_button_3": [
+    "rec_switch_real_3"
+  ],
+  "power_up_0": [
+    "rec_switch_real_0"
+  ],
+  "power_up_1": [
+    "rec_switch_real_1"
+  ],
+  "power_up_2": [
+    "rec_switch_real_2"
+  ],
+  "power_up_3": [
+    "rec_switch_real_3"
+  ],
+  "power_down_0": [
+    "rec_switch_real_0"
+  ],
+  "power_down_1": [
+    "rec_switch_real_1"
+  ],
+  "power_down_2": [
+    "rec_switch_real_2"
+  ],
+  "power_down_3": [
+    "rec_switch_real_3"
+  ],
+  "amb_water_flow_0": [
+    "rec_water_flow"
+  ],
+  "amb_faucet_overflow_0": [
+    "rec_water_flow"
+  ],
+  "amb_water_trickle_0": [
+    "rec_water_trickle"
+  ],
+  "amb_faucet_0": [
+    "rec_faucet"
+  ],
+  "amb_fan_0": [
+    "rec_ventilation"
+  ],
+  "amb_crawl_air_0": [
+    "rec_ventilation"
+  ],
+  "amb_chute_wind_0": [
+    "rec_ventilation"
+  ],
+  "amb_wind_shaft_0": [
+    "rec_ventilation"
+  ],
+  "elev_shaft_wind_0": [
+    "rec_ventilation"
+  ],
+  "amb_pump_0": [
+    "rec_pump"
+  ],
+  "amb_boiler_0": [
+    "rec_pump"
+  ],
+  "amb_washer_0": [
+    "rec_pump"
+  ],
+  "amb_dryer_0": [
+    "rec_pump"
+  ],
+  "amb_fridge_0": [
+    "rec_fridge"
+  ],
+  "amb_vending_0": [
+    "rec_fridge"
+  ],
+  "amb_ice_0": [
+    "rec_fridge"
+  ],
+  "amb_transformer_0": [
+    "rec_transformer"
+  ],
+  "amb_generator_0": [
+    "rec_transformer"
+  ],
+  "amb_escalator_0": [
+    "rec_fan"
+  ],
+  "elev_motor_0": [
+    "rec_fan"
+  ],
+  "amb_elevator_machine_0": [
+    "rec_fan"
+  ],
+  "amb_rain_0": [
+    "rec_rain"
+  ],
+  "amb_rain_roof_0": [
+    "rec_rain"
+  ],
+  "amb_clock_tick_0": [
+    "rec_clock_tick"
+  ],
+  "clock_chime_0": [
+    "rec_clock_chime"
+  ],
+  "elev_chime_0": [
+    "rec_clock_chime"
+  ],
+  "bell_desk_0": [
+    "rec_bell_0"
+  ],
+  "test_beacon_0": [
+    "rec_bell_0"
+  ],
+  "amb_projector_0": [
+    "rec_projector"
+  ],
+  "projector_on_0": [
+    "rec_projector_0"
+  ],
+  "projector_on_1": [
+    "rec_projector_1"
+  ],
+  "typewriter_0": [
+    "rec_typewriter_0"
+  ],
+  "typewriter_1": [
+    "rec_typewriter_1"
+  ],
+  "typewriter_2": [
+    "rec_typewriter_2"
+  ],
+  "typewriter_3": [
+    "rec_typewriter_3"
+  ],
+  "typewriter_4": [
+    "rec_typewriter_4"
+  ],
+  "typewriter_5": [
+    "rec_typewriter_5"
+  ],
+  "typewriter_6": [
+    "rec_typewriter_6"
+  ],
+  "typewriter_7": [
+    "rec_typewriter_7"
+  ],
+  "phone_ring_0": [
+    "rec_phone_ring"
+  ],
+  "payphone_ring_0": [
+    "rec_phone_ring"
+  ],
+  "phone_pickup_0": [
+    "rec_phone_dial_0"
+  ],
+  "phone_pickup_1": [
+    "rec_phone_dial_1"
+  ],
+  "phone_pickup_2": [
+    "rec_phone_dial_2"
+  ],
+  "phone_pickup_3": [
+    "rec_phone_dial_3"
+  ],
+  "phone_hangup_0": [
+    "rec_phone_dial_0"
+  ],
+  "phone_hangup_1": [
+    "rec_phone_dial_1"
+  ],
+  "phone_hangup_2": [
+    "rec_phone_dial_2"
+  ],
+  "phone_hangup_3": [
+    "rec_phone_dial_3"
+  ],
+  "phone_dial_tone_0": [
+    "rec_phone_dial_0"
+  ],
+  "phone_dial_tone_1": [
+    "rec_phone_dial_1"
+  ],
+  "phone_dial_tone_2": [
+    "rec_phone_dial_2"
+  ],
+  "phone_dial_tone_3": [
+    "rec_phone_dial_3"
+  ],
+  "radio_static_0": [
+    "rec_radio_static"
+  ],
+  "amb_tv_static_0": [
+    "rec_radio_static"
+  ],
+  "musicbox_wind_0": [
+    "rec_winder_0"
+  ],
+  "musicbox_wind_1": [
+    "rec_winder_1"
+  ],
+  "musicbox_wind_2": [
+    "rec_winder_2"
+  ],
+  "musicbox_wind_3": [
+    "rec_winder_3"
+  ],
+  "musicbox_wind_4": [
+    "rec_winder_4"
+  ],
+  "juke_select_0": [
+    "rec_winder_0"
+  ],
+  "juke_select_1": [
+    "rec_winder_1"
+  ],
+  "juke_select_2": [
+    "rec_winder_2"
+  ],
+  "juke_select_3": [
+    "rec_winder_3"
+  ],
+  "juke_select_4": [
+    "rec_winder_4"
+  ],
+  "gramophone_needle_0": [
+    "rec_winder_0"
+  ],
+  "gramophone_needle_1": [
+    "rec_winder_1"
+  ],
+  "gramophone_needle_2": [
+    "rec_winder_2"
+  ],
+  "gramophone_needle_3": [
+    "rec_winder_3"
+  ],
+  "gramophone_needle_4": [
+    "rec_winder_4"
+  ],
+  "ui_tape_0": [
+    "rec_cassette"
+  ],
+  "ui_ff_0": [
+    "rec_cassette"
+  ],
+  "ui_blip_0": [
+    "rec_switch_real_0"
+  ],
+  "ui_blip_1": [
+    "rec_switch_real_1"
+  ],
+  "ui_blip_2": [
+    "rec_switch_real_2"
+  ],
+  "ui_blip_3": [
+    "rec_switch_real_3"
+  ],
+  "ice_drop_0": [
+    "rec_ice"
+  ],
+  "vending_buy_0": [
+    "rec_ice"
+  ],
+  "amb_glass_0": [
+    "rec_glass_break_0"
+  ],
+  "amb_glass_1": [
+    "rec_glass_break_1"
+  ],
+  "amb_glass_2": [
+    "rec_glass_break_2"
+  ],
+  "amb_glass_3": [
+    "rec_glass_break_3"
+  ],
+  "amb_debris_0": [
+    "rec_glass_break_0"
+  ],
+  "amb_debris_1": [
+    "rec_glass_break_1"
+  ],
+  "amb_debris_2": [
+    "rec_glass_break_2"
+  ],
+  "amb_debris_3": [
+    "rec_glass_break_3"
+  ],
+  "amb_plastic_flap_0": [
+    "rec_cloth_rustle_0"
+  ],
+  "amb_plastic_flap_1": [
+    "rec_cloth_rustle_1"
+  ],
+  "amb_plastic_flap_2": [
+    "rec_cloth_rustle_2"
+  ],
+  "amb_plastic_flap_3": [
+    "rec_cloth_rustle_3"
+  ],
+  "amb_plastic_flap_4": [
+    "rec_cloth_rustle_4"
+  ],
+  "amb_plastic_flap_5": [
+    "rec_cloth_rustle_5"
+  ],
+  "amb_plastic_flap_6": [
+    "rec_cloth_rustle_6"
+  ],
+  "amb_plastic_flap_7": [
+    "rec_cloth_rustle_7"
+  ],
+  "elev_door_0": [
+    "rec_steel_open"
+  ],
+  "elev_creak_0": [
+    "rec_steel_open"
+  ],
+  "elev_start_0": [
+    "rec_switch_real_0"
+  ],
+  "elev_start_1": [
+    "rec_switch_real_1"
+  ],
+  "elev_start_2": [
+    "rec_switch_real_2"
+  ],
+  "elev_start_3": [
+    "rec_switch_real_3"
+  ],
+  "elev_stop_0": [
+    "rec_switch_real_0"
+  ],
+  "elev_stop_1": [
+    "rec_switch_real_1"
+  ],
+  "elev_stop_2": [
+    "rec_switch_real_2"
+  ],
+  "elev_stop_3": [
+    "rec_switch_real_3"
+  ],
+  "radio_station_1_0": [
+    "rec_voice_en"
+  ],
+  "radio_station_4_0": [
+    "rec_voice_en"
+  ],
+  "phone_voice_1_0": [
+    "rec_voice_en"
+  ],
+  "phone_voice_3_0": [
+    "rec_voice_en"
+  ],
+  "tv_news_0": [
+    "rec_voice_en"
+  ],
+  "radio_station_5_0": [
+    "rec_voice_fr"
+  ],
+  "phone_voice_2_0": [
+    "rec_voice_fr"
+  ],
+  "phone_voice_4_0": [
+    "rec_voice_fr"
+  ],
+  "tv_show_0": [
+    "rec_voice_fr"
+  ],
+  "tv_computer_0": [
+    "rec_voice_fr"
+  ],
+  "musicbox_lullaby_0": [
+    "rec_musicbox"
+  ],
+  "musicbox_lullaby_reverse_0": [
+    "rec_musicbox"
+  ],
+  "musicbox_waltz_box_0": [
+    "rec_musicbox"
+  ],
+  "musicbox_carousel_0": [
+    "rec_musicbox"
+  ],
+  "note_grand_0_0": [
+    "piano_recorded_0"
+  ],
+  "note_detuned_0_0": [
+    "piano_recorded_0"
+  ],
+  "note_toy_0_0": [
+    "piano_recorded_0"
+  ],
+  "note_organ_0_0": [
+    "piano_recorded_0"
+  ],
+  "note_grand_1_0": [
+    "piano_recorded_1"
+  ],
+  "note_detuned_1_0": [
+    "piano_recorded_1"
+  ],
+  "note_toy_1_0": [
+    "piano_recorded_1"
+  ],
+  "note_organ_1_0": [
+    "piano_recorded_1"
+  ],
+  "note_grand_2_0": [
+    "piano_recorded_2"
+  ],
+  "note_detuned_2_0": [
+    "piano_recorded_2"
+  ],
+  "note_toy_2_0": [
+    "piano_recorded_2"
+  ],
+  "note_organ_2_0": [
+    "piano_recorded_2"
+  ],
+  "note_grand_3_0": [
+    "piano_recorded_3"
+  ],
+  "note_detuned_3_0": [
+    "piano_recorded_3"
+  ],
+  "note_toy_3_0": [
+    "piano_recorded_3"
+  ],
+  "note_organ_3_0": [
+    "piano_recorded_3"
+  ],
+  "note_grand_4_0": [
+    "piano_recorded_4"
+  ],
+  "note_detuned_4_0": [
+    "piano_recorded_4"
+  ],
+  "note_toy_4_0": [
+    "piano_recorded_4"
+  ],
+  "note_organ_4_0": [
+    "piano_recorded_4"
+  ],
+  "note_grand_5_0": [
+    "piano_recorded_5"
+  ],
+  "note_detuned_5_0": [
+    "piano_recorded_5"
+  ],
+  "note_toy_5_0": [
+    "piano_recorded_5"
+  ],
+  "note_organ_5_0": [
+    "piano_recorded_5"
+  ],
+  "note_grand_6_0": [
+    "piano_recorded_6"
+  ],
+  "note_detuned_6_0": [
+    "piano_recorded_6"
+  ],
+  "note_toy_6_0": [
+    "piano_recorded_6"
+  ],
+  "note_organ_6_0": [
+    "piano_recorded_6"
+  ],
+  "note_grand_7_0": [
+    "piano_recorded_7"
+  ],
+  "note_detuned_7_0": [
+    "piano_recorded_7"
+  ],
+  "note_toy_7_0": [
+    "piano_recorded_7"
+  ],
+  "note_organ_7_0": [
+    "piano_recorded_7"
+  ],
+  "note_grand_8_0": [
+    "piano_recorded_8"
+  ],
+  "note_detuned_8_0": [
+    "piano_recorded_8"
+  ],
+  "note_toy_8_0": [
+    "piano_recorded_8"
+  ],
+  "note_organ_8_0": [
+    "piano_recorded_8"
+  ],
+  "note_grand_9_0": [
+    "piano_recorded_9"
+  ],
+  "note_detuned_9_0": [
+    "piano_recorded_9"
+  ],
+  "note_toy_9_0": [
+    "piano_recorded_9"
+  ],
+  "note_organ_9_0": [
+    "piano_recorded_9"
+  ],
+  "piano_tune_grand_0": [
+    "rec_piano_tune_grand"
+  ],
+  "piano_tune_detuned_0": [
+    "rec_piano_tune_detuned"
+  ],
+  "piano_tune_toy_0": [
+    "rec_piano_tune_toy"
+  ],
+  "piano_tune_organ_0": [
+    "rec_piano_tune_organ"
+  ],
+  "record_elise_0": [
+    "rec_record_elise"
+  ],
+  "record_waltz_0": [
+    "rec_record_waltz"
+  ],
+  "record_lullaby_0": [
+    "rec_record_lullaby"
+  ],
+  "record_nocturne_0": [
+    "rec_record_nocturne"
+  ],
+  "piano_lounge_0": [
+    "rec_piano_tune_grand"
+  ],
+  "radio_station_0_0": [
+    "rec_record_waltz"
+  ],
+  "gramophone_waltz_0": [
+    "rec_record_waltz"
+  ],
+  "juke_doowop_0": [
+    "rec_record_waltz"
+  ],
+  "radio_station_2_0": [
+    "rec_record_lullaby"
+  ],
+  "juke_swing_0": [
+    "rec_record_lullaby"
+  ],
+  "gramophone_waltz_old_0": [
+    "rec_record_lullaby"
+  ],
+  "elev_muzak_0": [
+    "rec_record_lullaby"
+  ],
+  "radio_station_3_0": [
+    "rec_record_elise"
+  ],
+  "juke_ballad_0": [
+    "rec_record_elise"
+  ],
+  "gramophone_love_song_0": [
+    "rec_record_elise"
+  ],
+  "gramophone_waltz_slow_0": [
+    "rec_record_nocturne"
+  ],
+  "monster_step_0": [
+    "step_concrete_0"
+  ],
+  "monster_step_1": [
+    "step_concrete_1"
+  ],
+  "monster_step_2": [
+    "step_concrete_2"
+  ],
+  "monster_step_3": [
+    "step_concrete_3"
+  ],
+  "monster_step_4": [
+    "step_concrete_4"
+  ],
+  "monster_step_5": [
+    "step_concrete_5"
+  ],
+  "monster_step_6": [
+    "step_concrete_6"
+  ],
+  "monster_step_7": [
+    "step_concrete_7"
+  ],
+  "monster_step_8": [
+    "step_concrete_8"
+  ]
+}
