@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 586be95c803522643ac73aa1a23fceb7, type: 3}
+  m_Name: FaceTrackerConfig
+  m_EditorClassIdentifier: Assembly-CSharp::FaceTrackerConfig
+  model: {fileID: 5022602860645237092, guid: 1a6787763666b334b8fb5c57346a1f99, type: 3}
+  anchors: {fileID: 4900000, guid: baf6779edb2675841985e2c4902d8dcf, type: 3}
+  normMat: {fileID: 2100000, guid: 44212d78df654f649b669d8e2a8a4137, type: 2}

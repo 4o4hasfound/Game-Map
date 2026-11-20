@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Monster
+  - Structure
+  - Door
+  - Prop
+  - Ceiling
+  - Interactable
+  - PlayerAvatar
+  - Hiding
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  m_RenderingLayers:
+  - Default
+  - Room 1
+  - Room 2
+  - Room 3
+  - Room 4
+  - Room 5
+  - Room 6
+  - Room 7
+  - Room 8
+  m_MigratedRenderPipelines: []
