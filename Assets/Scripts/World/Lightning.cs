@@ -32,7 +32,7 @@ public class Lightning : MonoBehaviour
 
     void Start()
     {
-        foreach (var l in FindObjectsByType<Light>(FindObjectsInactive.Include))
+        foreach (var l in FindObjectsByType<Light>(FindObjectsInactive.Include, FindObjectsSortMode.None))
             if (l.name == "Lightning light") { lights.Add(l); l.enabled = false; }
         next = Time.time + Random.Range(12f, 25f);
     }

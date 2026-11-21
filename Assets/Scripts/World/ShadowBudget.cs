@@ -1,17 +1,15 @@
 using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.Rendering.Universal;
 
 // Shadows are the most expensive thing on the GPU here: a lamp's shadow is six renders of the room around it. Of the
 // room lamps that cast shadows (the flickering ones: their shadows jump), only the few nearest you do at any moment,
-// with soft edges and a sharper map than before; the rest light without shadows. Your camera light always casts its
+// with soft edges and the medium shadow map (set by the builder); the rest light without shadows. Your camera light always casts its
 // own, and brief flashes (lightning, a live cable's arc) keep theirs. Checked four times a second.
 public class ShadowBudget : MonoBehaviour
 {
     public int budget = 3;
     public float maxDistance = 14f;
     readonly List<Light> casters = new List<Light>();
-    readonly List<UniversalAdditionalLightData> extra = new List<UniversalAdditionalLightData>();
     readonly List<(float d, int i)> order = new List<(float, int)>();
     float next;
     public static int Casting { get; private set; }      // how many room lamps cast shadows right now (the autotest reads it)
@@ -23,7 +21,6 @@ public class ShadowBudget : MonoBehaviour
         {
             if (l.shadows == LightShadows.None || !l.GetComponentInParent<Lamp>()) continue;
             casters.Add(l);
-            extra.Add(l.GetComponent<UniversalAdditionalLightData>());
             l.shadows = LightShadows.None;
         }
         Managed = casters.Count;
@@ -55,7 +52,6 @@ public class ShadowBudget : MonoBehaviour
             var want = on.Contains(i) ? LightShadows.Soft : LightShadows.None;
             if (l.shadows == want) continue;
             l.shadows = want;
-            if (want != LightShadows.None && extra[i]) extra[i].additionalLightsShadowResolutionTier = 1;   // medium (512)
         }
     }
 }

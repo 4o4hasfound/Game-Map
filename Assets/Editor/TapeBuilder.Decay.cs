@@ -318,7 +318,7 @@ public static partial class TapeBuilder
             {
                 light.shadows = LightShadows.Hard;
                 var ud = light.GetComponent<UniversalAdditionalLightData>();
-                if (ud) { var uso = new SerializedObject(ud); var tier = uso.FindProperty("m_AdditionalLightsShadowResolutionTier"); if (tier != null) { tier.intValue = 0; uso.ApplyModifiedPropertiesWithoutUndo(); } }
+                if (ud) { var uso = new SerializedObject(ud); var tier = uso.FindProperty("m_AdditionalLightsShadowResolutionTier"); if (tier != null) { tier.intValue = 1; uso.ApplyModifiedPropertiesWithoutUndo(); } }   // medium tier: only the nearest three cast at once (ShadowBudget)
                 shadowed++;
             }
             if (!bulb) continue;

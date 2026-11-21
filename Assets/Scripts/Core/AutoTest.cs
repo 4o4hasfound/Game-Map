@@ -341,7 +341,7 @@ public class AutoTest : MonoBehaviour
         }
         int deadLamps = Lamp.All.Count(l => l && l.dead);
         int colours = Lamp.All.Where(l => l && l.lightSource).Select(l => ColorUtility.ToHtmlStringRGB(l.lightSource.color)).Distinct().Count();
-        int stains = FindObjectsByType<MeshRenderer>().Count(r => r.name == "Water stain" || r.name == "Mould" || r.name == "Soot" || r.name == "Grime");
+        int stains = FindObjectsByType<MeshRenderer>(FindObjectsSortMode.None).Count(r => r.name == "Water stain" || r.name == "Mould" || r.name == "Soot" || r.name == "Grime");
         int deadKinds = Lamp.All.Count(l => l && (l.name == "Tube" || l.name == "Sconce" || l.name == "Bulb"));
         // after the brighten pass about one fitting in ten is dead: some, but not so many the hotel goes black
         Check(deadLamps >= 5 && deadLamps <= deadKinds / 4 && colours >= 40 && stains >= 300, $"decay: {deadLamps} of {deadKinds} tubes, sconces and bare bulbs are dead fittings (5 to a quarter wanted); {colours} different light colours; {stains} grime and stain decals");
