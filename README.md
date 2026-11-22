@@ -1,6 +1,6 @@
 # The Tape
 
-A first-person horror game in three parts, about 15 minutes, for teachers and students. Unity 6.3 LTS (6000.3.29f1), URP 17.3.
+A first-person horror game in three parts, about 15 minutes, for teachers and students. Unity 6.3 LTS (6000.3.26f1), URP 17.3.
 
 You put an unlabelled tape in your VCR and get pulled into it: the Grand Meridian Hotel on its last night, 31 October 2003. Something walks the hotel. It has no face and poor eyes: it sees you only in bright light. **It hunts by sound.**
 
